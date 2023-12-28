@@ -14,11 +14,11 @@ Technologies Used:
 
 I created a Unity application for deployment on a Meta Quest 2 headset. The application creates a Bluetooth connection with an Arduino Uno microcontroller using an HC-05 shield. The microcontroller, battery, and shield are all attached to the back of a glove. 
 
-![Haptic Glove](./Images/Glove.jpg)
+<img src="./Images/Glove.jpg" alt="Haptic Glove" width="200"/>
 
 Inside the application, users can control the microcontroller by sending commands from an interface. These commands include turning an LED on/off and turning a haptic motor on/off. The application also tracks the user's hands and turns on the motor whenever an in-game ball collides with the tracked left-hand model.
 
-![Demo Video](https://drive.google.com/file/d/18a9KN7_vpPYGol0wG0OJBrW_0RneNZSl/view?usp=sharing)
+<video src="https://drive.google.com/file/d/18a9KN7_vpPYGol0wG0OJBrW_0RneNZSl/view?usp=sharing" width="320" height="240" controls></video>
 
 ## Research Summary 
 
