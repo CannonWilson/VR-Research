@@ -18,8 +18,7 @@ I created a Unity application for deployment on a Meta Quest 2 headset. The appl
 
 Inside the application, users can control the microcontroller by sending commands from an interface. These commands include turning an LED on/off and turning a haptic motor on/off. The application also tracks the user's hands and turns on the motor whenever an in-game ball collides with the tracked left-hand model.
 
-<video src="https://drive.google.com/uc?export=download&id=18a9KN7_vpPYGol0wG0OJBrW_0RneNZSl" width="320" height="240" controls></video>
-
+<video src="https://drive.google.com/uc?id=18a9KN7_vpPYGol0wG0OJBrW_0RneNZSl" width="320" height="240" controls></video>
 
 ## Research Summary 
 
